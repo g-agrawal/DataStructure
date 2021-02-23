@@ -57,4 +57,4 @@ bst.insert(22);
 bst.insert(1);
 bst.insert(14);
 
-console.log(bst.contains(14));
+console.log(bst.contains(15));
